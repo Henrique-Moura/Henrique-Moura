@@ -4,7 +4,12 @@
 
 In November 2020 I decided to transition my career to web development and I am very grateful for the existence of Trybe. Over the course of a year acquire knowledge never imagined before.
 
-I'm currently looking for a job as a Full-Stack or Dev. Back end</p>
+I'm currently looking for a job as a Full-Stack or Dev. Back end.
+  
+Check out my learning trail at Trybe at the link below.
+
+https://github.com/Henrique-Moura/Projetos-Trybe
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
