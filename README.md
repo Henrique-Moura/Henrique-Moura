@@ -42,8 +42,6 @@ Um forte abraço! :handshake:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henrique-moura&show_icons=true&locale=en&layout=compact" alt="most-used-languages" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=henrique-moura&show_icons=true&locale=en" alt="github-stats-card" /></p>
-
-> README.md done with assistance [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 <!--
 **Henrique-Moura/Henrique-Moura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
