@@ -4,7 +4,7 @@
 
 In November 2020 I decided to transition my career to web development and I am very grateful for the existence of Trybe  :computer: :star_struck:. Over the course of a year acquire knowledge never imagined before.
 
-:man_technologist: I'm currently looking for a job as a Full-Stack or Dev. Back end.:man_technologist: 
+:man_technologist: I'm currently looking for a job as a Dev. Backend.:man_technologist: 
   
 :point_down: Check out my learning trail at Trybe at the link below.:point_down:
 
@@ -18,7 +18,7 @@ Sou de São Paulo - Brasil :brazil:, tenho 24 anos. Tenho MBA em Gestão Educaci
 
 Em novembro de 2020 decidi fazer a transição da minha carreira para o desenvolvimento web e sou muito grato pela existência da Trybe :computer: :star_struck:. Ao longo de um ano adquiri conhecimentos (como poderá ver abaixo) pouco imaginado por mim a alguns anos atrás.
 
-:man_technologist: Atualmente estou procurando um emprego como Full-Stack ou Dev. Backend. :man_technologist:
+:man_technologist: Atualmente estou procurando emprego como Dev. Backend. :man_technologist:
 
 :point_down: Caso tenha ficado curioso sobre minha trilha de aprendizado na Trybe, confira no link abaixo.:point_down:
 
