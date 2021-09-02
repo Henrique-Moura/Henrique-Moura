@@ -2,7 +2,7 @@
 <h3 align="left">About me:</h3>
 <p>I'm from São Paulo - Brazil :brazil:, I'm 24 years old. I have an MBA degree in Educational Management and a Degree in History.:man_student::mortar_board:
 
-In November 2020 I decided to transition my career to web development and I am very grateful for the existence of Trybe  :computer: :star_struck:. Over the course of a year acquire knowledge never imagined before.
+In November 2020 I decided to transition my career to web development and I am very grateful for the existence of Trybe  :computer: :star_struck:. Over the course of a year I have acquired knowledge that never imagined before.
 
 :man_technologist: I'm currently looking for a job as a Dev. Backend.:man_technologist: 
   
