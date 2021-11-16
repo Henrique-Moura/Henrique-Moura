@@ -4,11 +4,11 @@
 
 In November 2020 I decided to transition my career to web development and I am very grateful for the existence of Trybe  :computer: :star_struck:. Over the course of a year I have acquired knowledge that never imagined before.
 
-:man_technologist: I really enjoyed doing projects with MySQL and MongoDB queries, as well as creating Rest API with Node.js/Express and I'm available for new jobs in the area. :man_technologist: 
-  
 :point_down: Check out my learning trail at Trybe at the link below.:point_down:
 
 https://github.com/Henrique-Moura/Learning-at-Trybe
+
+I currently act as a dev. Full-Stack in Méliuz. :heart_eyes:
 </p>
 
 <h3 align="left">Sobre mim:</h3>
@@ -18,11 +18,11 @@ Sou de São Paulo - Brasil :brazil:, tenho 24 anos. Tenho MBA em Gestão Educaci
 
 Em novembro de 2020 decidi fazer a transição da minha carreira para o desenvolvimento web e sou muito grato pela existência da Trybe :computer: :star_struck:. Ao longo de um ano adquiri conhecimentos (como poderá ver abaixo) pouco imaginado por mim a alguns anos atrás.
 
-:man_technologist: Gostei muito de realizar projetos com queries do MySQL e MongoDB, além da criação de API Rest com Node.js/Express e estou disponível para novas vagas na área. :man_technologist:
-
 :point_down: Caso tenha ficado curioso sobre minha trilha de aprendizado na Trybe, confira no link abaixo.:point_down:
 
 https://github.com/Henrique-Moura/Learning-at-Trybe
+  
+Atualmente atuo como dev. Full-Stack na Méliuz. :heart_eyes:
 
 Um forte abraço! :handshake:
 
