@@ -1,6 +1,6 @@
 <h1 align="center">Hello Everybody :call_me_hand:. Nice to have you here! I'm Henrique Moura</h1>
 <h3 align="left">About me:</h3>
-<p>I'm from São Paulo - Brazil :brazil:, I'm 26 years old. I have an MBA degree in Educational Management and a Degree in History.:man_student::mortar_board:
+<p>I'm from São Paulo - Brazil :brazil:, I'm 27 years old. I have an MBA degree in Educational Management and a Degree in History.:man_student::mortar_board:
 
 In November 2020 I decided to transition my career to web development and I am very grateful for the existence of Trybe  :computer: :star_struck:. Over the course of a year I have acquired knowledge that never imagined before. 
 
@@ -10,7 +10,7 @@ I worked as a dev. at Méliuz for two with a focus on SEO
 <h3 align="left">Sobre mim:</h3>
 <p>
 
-Sou de São Paulo - Brasil :brazil:, tenho 26 anos. Tenho MBA em Gestão Educacional e Graduação em História.:man_student::mortar_board:
+Sou de São Paulo - Brasil :brazil:, tenho 27 anos. Tenho MBA em Gestão Educacional e Graduação em História.:man_student::mortar_board:
 
 Em novembro de 2020 decidi fazer a transição da minha carreira para o desenvolvimento web e sou muito grato pela existência da Trybe :computer: :star_struck:. Ao longo de um ano adquiri conhecimentos pouco imaginado por mim a alguns anos atrás.
   
